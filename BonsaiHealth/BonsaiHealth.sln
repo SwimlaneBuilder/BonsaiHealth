@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonsaiHealth", "BonsaiHealth\BonsaiHealth.csproj", "{31A567DD-B04F-454D-BF43-EA69BC53000A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonsaiHealthWebApi", "BonsaiHealthWebApi\BonsaiHealthWebApi.csproj", "{325377F1-50DE-4E95-AF3F-1EBC243BA1B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D6D41B7-8874-4AA6-8824-1BA0AB4ADB9A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A567DD-B04F-454D-BF43-EA69BC53000A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A567DD-B04F-454D-BF43-EA69BC53000A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A567DD-B04F-454D-BF43-EA69BC53000A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A567DD-B04F-454D-BF43-EA69BC53000A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325377F1-50DE-4E95-AF3F-1EBC243BA1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325377F1-50DE-4E95-AF3F-1EBC243BA1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325377F1-50DE-4E95-AF3F-1EBC243BA1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325377F1-50DE-4E95-AF3F-1EBC243BA1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
